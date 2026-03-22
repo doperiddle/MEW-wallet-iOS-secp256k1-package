@@ -33,8 +33,6 @@ let package = Package(
                 "src/bench_recover.c",
                 "src/bench_sign.c",
                 "src/bench_verify.c",
-                "src/bench_internal.c",
-                "src/bench_ecdh.c",
                 "src/bench.h",
 
                 // already manually added ecmult_static_context.h
